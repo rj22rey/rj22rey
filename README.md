@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rj22rey
-I'm always learning
+- I'm always learning
 
 <!---
 rj22rey/rj22rey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
